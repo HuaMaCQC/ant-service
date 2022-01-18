@@ -1,0 +1,10 @@
+{
+    "uuidDB":{
+        "host":"localhost",
+        "user":"root",
+        "password":"",
+        "database":"test",
+        "table":"uuid",
+        "uuid":"uuid"
+    }
+}
